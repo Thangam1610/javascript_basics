@@ -34,7 +34,7 @@ function arithmeticOperations(num1, num2){
     resultsub= num1 - num2;
     resultmul = num1 *num2;
     resultdiv = num1/ num2;
-    console.log(`result of these numbers:${[resultsum, resultsub, resultmul, resultdiv ]}`)    
+    console.log(`result of these numbers:${[resultsum, resultsub, resultmul, resultdiv ]}`);   
 }
 
 //built in functions
