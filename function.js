@@ -38,9 +38,9 @@ function arithmeticOperations(num1, num2){
 }
 
 //built in functions
-//grocery shop, shop keeper he will define a code foe every item in his shop
+//grocery shop, shop keeper he will define a code for every item in his shop
 //for that he will only be knowing
-
+    
 
 var i = "3,52,24"; // 42 is the ID, 22 is the rupees , 3 is the stock
 
